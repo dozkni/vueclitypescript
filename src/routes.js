@@ -4,8 +4,6 @@ import homePage from '@/pages/homePage'
 import aboutPage from '@/pages/aboutPage'
 import notFoundPage from '@/pages/notFoundPage'
 
-const testPage = <h1 class="title">TEST</h1>;
-
 const routes = [
     {
       path: "/",
