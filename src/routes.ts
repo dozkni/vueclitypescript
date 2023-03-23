@@ -1,8 +1,8 @@
 import {createRouter, createWebHistory} from "vue-router";
 
-import homePage from '@/pages/homePage'
-import aboutPage from '@/pages/aboutPage'
-import notFoundPage from '@/pages/notFoundPage'
+import homePage from '@/pages/homePage.vue'
+import aboutPage from '@/pages/aboutPage.vue'
+import notFoundPage from '@/pages/notFoundPage.vue'
 
 const routes = [
     {
